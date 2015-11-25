@@ -1,6 +1,8 @@
 Heroku Buildpack for Node.js
 ============================
 
+[![Join the chat at https://gitter.im/mediachicken/heroku-buildpack-nodejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mediachicken/heroku-buildpack-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the official [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Node.js apps. If you fork this repository, please **update this README** to explain what your fork does and why it's special.
 
 
